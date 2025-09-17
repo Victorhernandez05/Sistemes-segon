@@ -1,6 +1,6 @@
 # Sistemes2
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Víctor Hernández.
+Este repositorio contiene el material del curso de Sistemes2 desarrollado por Víctor Hernández.
 
 ## Contenido
 
