@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sistmes2"
+title: "Sistemes2"
 ---
 
 Este repositorio contiene el material del curso de Sistmes2 desarrollado por Víctor Hernández.
