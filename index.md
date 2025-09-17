@@ -3,7 +3,7 @@ layout: default
 title: "Sistemes2"
 ---
 
-Este repositorio contiene el material del curso de Sistmes2 desarrollado por Víctor Hernández.
+Este repositorio contiene el material del curso de Sistemes2 desarrollado por Víctor Hernández.
 
 - Índice y enlaces a las unidades del curso.
 - Recursos en formato PDF, vídeos, y Google Colab.
