@@ -16,7 +16,9 @@ Script (/usr/local/bin/reporte_sistema.sh): recull informació del sistema i la 
 
 Editor: sudo nano /etc/systemd/system/miscripts.target
 
-unidad1/Captura de pantalla de 2025-10-14 09-45-55.png
+## Exemple de target
+
+![Captura del target](unidad1/Captura%20de%20pantalla%20de%202025-10-14%2009-45-55.png)
 
 Contingut d'exemple:
 
