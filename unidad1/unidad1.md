@@ -20,7 +20,9 @@ Un target a systemd és un punt de sincronització, semblant a un "grup" d’uni
 ![imagen](<target.png>)
 
 [Unit] → Conté metadades com el nom i la descripció.
+
 [Install] → Indica a quin altre target s’enganxa. 
+
 En aquest cas, a multi-user.target (nivell multiusuari, habitual en servidors).
 
 ### Crear el servei (fitxer .service)
