@@ -18,7 +18,7 @@ Editor: sudo nano /etc/systemd/system/miscripts.target
 
 ## Exemple de target
 
-![Captura del target](unidad1/Captura%20de%20pantalla%20de%202025-10-14%2009-45-55.png)
+![Captura del target](/Captura%20de%20pantalla%20de%202025-10-14%2009-45-55.png)
 
 Contingut d'exemple:
 
