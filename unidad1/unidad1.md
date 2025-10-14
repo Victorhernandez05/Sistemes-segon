@@ -1,8 +1,7 @@
 Víctor Hernández Elías 
 ---
-title: "Target, servei i script"
+"Target, servei i script"
 ---
-Víctor Hernández Elías 
 
 ## Resum de la idea
 
