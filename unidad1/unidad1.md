@@ -16,6 +16,8 @@ Script (/usr/local/bin/reporte_sistema.sh): recull informació del sistema i la 
 
 Editor: sudo nano /etc/systemd/system/miscripts.target
 
+unidad1/Captura de pantalla de 2025-10-14 09-45-55.png
+
 Contingut d'exemple:
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/l1.pdf)
