@@ -44,12 +44,12 @@ sudo systemctl start reporte_sistema.service
 ### Crear l’script que genera i envia l’informe
 
 Aquest script /usr/local/bin/reporte_sistema.sh està dissenyat per generar un informe de l'estat del sistema automàticament a l'inici i enviar-lo per correu a un administrador (en aquest cas victorhernandez@iesebre.com).
+
 **sudo nano /usr/local/bin/reporte_sistema.sh**
 
 ![imagen](<script.png>)
 
 Permisos: **sudo chmod +x /usr/local/bin/reporte_sistema.sh**
-
 
 ### Instal·lar dependències de correu
 
