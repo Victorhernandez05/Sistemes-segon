@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Target, servei i script"
 ---
 
@@ -17,8 +16,6 @@ Script (/usr/local/bin/reporte_sistema.sh): recull informació del sistema i la 
 **sudo nano /etc/systemd/system/miscripts.target**
 
 ![imagen](<target.png>)
-
-Contingut d'exemple:
 
 ### Crear el servei (fitxer .service)
 
