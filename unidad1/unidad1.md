@@ -14,7 +14,7 @@ Script (/usr/local/bin/reporte_sistema.sh): recull informació del sistema i la 
 
 ### Crear el target (fitxer .target)
 
-Editor: sudo nano /etc/systemd/system/miscripts.target
+**sudo nano /etc/systemd/system/miscripts.target**
 
 ## Exemple de target
 
@@ -24,7 +24,7 @@ Contingut d'exemple:
 
 ### Crear el servei (fitxer .service)
 
-Editor: sudo nano /etc/systemd/system/reporte_sistema.service
+**sudo nano /etc/systemd/system/reporte_sistema.service**
 
 Contingut d'exemple pensat per executar l’script una vegada a l'arrencada:
 
@@ -32,7 +32,7 @@ Contingut d'exemple pensat per executar l’script una vegada a l'arrencada:
 
 ### Crear l’script que genera i envia l’informe
 
-Editor: sudo nano /usr/local/bin/reporte_sistema.sh
+**sudo nano /usr/local/bin/reporte_sistema.sh**
 
 ![imagen](<script.png>)
 
