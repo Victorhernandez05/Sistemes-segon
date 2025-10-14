@@ -16,7 +16,7 @@ Script (/usr/local/bin/reporte_sistema.sh): recull informació del sistema i la 
 
 Editor: sudo nano /etc/systemd/system/miscripts.target
 
-Contingut d'exemple (copia i enganxa):
+Contingut d'exemple:
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/l1.pdf)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/p27AhdHxi_o)
