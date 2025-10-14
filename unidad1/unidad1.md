@@ -18,10 +18,11 @@ Editor: sudo nano /etc/systemd/system/miscripts.target
 
 ## Exemple de target
 
-![Captura del target]/unitat1/Captura de pantalla de 2025-10-14 09-45-55.png
+![Captura del target](<unitat1/Captura de pantalla de 2025-10-14 09-45-55.png>)
 
 Contingut d'exemple:
 
+![imagen](<img/Imatge enganxada (300).png>)
 
 ### Crear el servei (fitxer .service)
 
