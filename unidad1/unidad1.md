@@ -34,8 +34,11 @@ Un servei defineix quan s’executa un programa o script sota systemd.
 ![imagen](<servei.png>)
 
 **Recargar, habilitar i executar:** 
+
 sudo systemctl daemon-reload
+
 sudo systemctl enable reporte_sistema.service
+
 sudo systemctl start reporte_sistema.service
 
 ### Crear l’script que genera i envia l’informe
