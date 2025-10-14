@@ -12,7 +12,7 @@ Servei (reporte_sistema.service): executa l’script que genera l’informe i l�
 Script (/usr/local/bin/reporte_sistema.sh): recull informació del sistema i la envia amb mail (prové de mailutils).
 
 
-2) Crear el target (fitxer .target)
+### Crear el target (fitxer .target)
 
 Editor: sudo nano /etc/systemd/system/miscripts.target
 
@@ -21,6 +21,26 @@ Editor: sudo nano /etc/systemd/system/miscripts.target
 ![Captura del target]/unitat1/Captura de pantalla de 2025-10-14 09-45-55.png
 
 Contingut d'exemple:
+
+
+### Crear el servei (fitxer .service)
+
+Editor: sudo nano /etc/systemd/system/reporte_sistema.service
+
+Contingut d'exemple pensat per executar l’script una vegada a l'arrencada:
+
+### Crear l’script que genera i envia l’informe
+
+Editor: sudo nano /usr/local/bin/reporte_sistema.sh
+
+Contingut d’exemple (personalitza el correu receptor):
+
+
+### Instal·lar dependències de correu
+
+A Debian/Ubuntu (i derivats) l’opció senzilla:
+
+
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/l1.pdf)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/p27AhdHxi_o)
