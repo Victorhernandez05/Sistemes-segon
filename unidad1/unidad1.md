@@ -13,32 +13,46 @@ Script (/usr/local/bin/reporte_sistema.sh): recull informació del sistema i la 
 
 ### Crear el target (fitxer .target)
 
+Un target a systemd és un punt de sincronització, semblant a un "grup" d’unitats. Serveix per agrupar serveis i controlar-los conjuntament.
+
 **sudo nano /etc/systemd/system/miscripts.target**
 
 ![imagen](<target.png>)
 
+[Unit] → Conté metadades com el nom i la descripció.
+[Install] → Indica a quin altre target s’enganxa. 
+En aquest cas, a multi-user.target (nivell multiusuari, habitual en servidors).
+
 ### Crear el servei (fitxer .service)
+
+Un servei defineix quan s’executa un programa o script sota systemd.
 
 **sudo nano /etc/systemd/system/reporte_sistema.service**
 
-Contingut d'exemple pensat per executar l’script una vegada a l'arrencada:
-
 ![imagen](<servei.png>)
+
+**Recargar, habilitar i executar:** 
+sudo systemctl daemon-reload
+sudo systemctl enable reporte_sistema.service
+sudo systemctl start reporte_sistema.service
 
 ### Crear l’script que genera i envia l’informe
 
+Aquest script /usr/local/bin/reporte_sistema.sh està dissenyat per generar un informe de l'estat del sistema automàticament a l'inici i enviar-lo per correu a un administrador (en aquest cas victorhernandez@iesebre.com).
 **sudo nano /usr/local/bin/reporte_sistema.sh**
 
 ![imagen](<script.png>)
 
+Permisos: **sudo chmod +x /usr/local/bin/reporte_sistema.sh**
 
-Contingut d’exemple (personalitza el correu receptor):
-
-![imagen](<correo.png>)
 
 ### Instal·lar dependències de correu
 
-A Debian/Ubuntu (i derivats) l’opció senzilla:
+**sudo apt install mailutils -y**
+
+![imagen](<correo.png>)
+
+
 
 ![imagen](<get-default.png>)
 
