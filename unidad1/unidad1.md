@@ -16,8 +16,6 @@ Script (/usr/local/bin/reporte_sistema.sh): recull informació del sistema i la 
 
 **sudo nano /etc/systemd/system/miscripts.target**
 
-## Exemple de target
-
 ![imagen](<target.png>)
 
 Contingut d'exemple:
