@@ -20,7 +20,7 @@ Editor: sudo nano /etc/systemd/system/miscripts.target
 
 ![Captura del target](<unitat1/Captura de pantalla de 2025-10-14 09-45-55.png>)
 
-![imagen](<Captura de pantalla de 2025-09-17 19-06-31.png>)
+![imagen](<servei.png>)
 
 Contingut d'exemple:
 
