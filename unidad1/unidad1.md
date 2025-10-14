@@ -59,10 +59,13 @@ Permisos: **sudo chmod +x /usr/local/bin/reporte_sistema.sh**
 
 I com podem veure a la imatge ens envia el report general del sistema al engegar la màquina o reiniciar-la
 
+### Com obtenir / canviar el default target
 
+**systemctl get-default**
 
 ![imagen](<get-default.png>)
 
+Establir un target per defecte (si vols arrencar directament a miscripts.target com a target per defecte; normalment es fa que miscripts.target sigui WantedBy=multi-user.target i s’executi a l'arrencada):
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/l1.pdf)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/p27AhdHxi_o)
