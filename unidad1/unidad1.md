@@ -22,8 +22,6 @@ Editor: sudo nano /etc/systemd/system/miscripts.target
 
 Contingut d'exemple:
 
-![imagen](<img/Imatge enganxada (300).png>)
-
 ### Crear el servei (fitxer .service)
 
 Editor: sudo nano /etc/systemd/system/reporte_sistema.service
