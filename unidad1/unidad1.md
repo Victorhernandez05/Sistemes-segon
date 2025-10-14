@@ -57,6 +57,8 @@ Permisos: **sudo chmod +x /usr/local/bin/reporte_sistema.sh**
 
 ![imagen](<correo.png>)
 
+I com podem veure a la imatge ens envia el report general del sistema al engegar la màquina o reiniciar-la
+
 
 
 ![imagen](<get-default.png>)
