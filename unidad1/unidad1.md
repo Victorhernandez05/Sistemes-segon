@@ -1,4 +1,3 @@
-Víctor Hernández Elías 
 ---
 "Target, servei i script"
 ---
