@@ -4,13 +4,15 @@ Víctor Hernández Elías
 
 
 **Objectiu general**
+
 Crear un script PowerShell que:
-S’executi automàticament com a servei
-Registre la data i hora d’inici
-Identifiqui l’usuari i l’ordinador
-Detecti la IP local i el temps d’activitat (uptime)
-Comprovi si hi ha connexió a Internet
-Escrigui tota la informació en un fitxer de log
+
+- S’executi automàticament com a servei
+- Registre la data i hora d’inici
+- Identifiqui l’usuari i l’ordinador
+- Detecti la IP local i el temps d’activitat (uptime)
+- Comprovi si hi ha connexió a Internet
+- Escrigui tota la informació en un fitxer de log
 
 
 1. Instal·lació de NSSM (Non-Sucking Service Manager)
