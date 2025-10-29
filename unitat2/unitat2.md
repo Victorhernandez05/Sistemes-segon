@@ -5,7 +5,7 @@ Víctor Hernández Elías
 
 **Objectiu general**
 
-Crear un script PowerShell que:
+ un script PowerShell que:
 
 - S’executi automàticament com a servei
 - Registre la data i hora d’inici
