@@ -26,7 +26,7 @@ Anem al link de descarga seleccionem l’opció marcada: https://nssm.cc/downloa
 
 
 
-- Extreu el contingut i col·locar-lo en una carpeta accessible 
+- Extreu el contingut i col·loca-lo en una carpeta accessible 
 - Obrir PowerShell com a administrador
 - Executar nssm install per crear un nou servei
 
