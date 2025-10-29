@@ -5,7 +5,7 @@ Víctor Hernández Elías
 
 **Objectiu general**
 
- un script PowerShell que:
+ Script PowerShell que:
 
 - S’executi automàticament com a servei
 - Registre la data i hora d’inici
