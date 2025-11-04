@@ -4,16 +4,29 @@ Víctor Hernández Elías
 
 
 **Objectiu general**
+Aquest script PowerShell està dissenyat per:
 
- Script PowerShell que:
+Executar-se automàticament com a servei, en iniciar l’equip o reiniciar-lo.
 
-- S’executi automàticament com a servei
-- Registre la data i hora d’inici
-- Identifiqui l’usuari i l’ordinador
-- Detecti la IP local i el temps d’activitat (uptime)
-- Comprovi si hi ha connexió a Internet
-- Escrigui tota la informació en un fitxer de log
+- Registrar la data i hora d’execució per tenir una traçabilitat temporal de cada informe generat.
 
+- Identificar l’usuari actiu i el nom de l’ordinador on s’executa el script.
+
+- Detectar la IP local assignada a la màquina i calcular el temps d’activitat (uptime) des de l’últim reinici.
+
+- Comprovar l’estat de la connexió a Internet mitjançant una prova de connexió a un servidor extern (Google DNS).
+
+- Recollir informació tècnica del sistema:
+
+Sistema operatiu 
+
+Quantitat de memòria RAM instal·lada
+
+Espai lliure i total dels discos locals
+
+Processos més actius per ús de CPU i memòria
+
+Serveis actualment en execució
 
 1. Instal·lació de NSSM (Non-Sucking Service Manager)
 
