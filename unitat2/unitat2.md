@@ -16,17 +16,17 @@ Executar-se automàticament com a servei, en iniciar l’equip o reiniciar-lo.
 
 - Comprovar l’estat de la connexió a Internet mitjançant una prova de connexió a un servidor extern (Google DNS).
 
-- Recollir informació tècnica del sistema:
+Recollir informació tècnica del sistema:
 
-Sistema operatiu 
+- Sistema operatiu 
 
-Quantitat de memòria RAM instal·lada
+- Quantitat de memòria RAM instal·lada
 
-Espai lliure i total dels discos locals
+- Espai lliure i total dels discos locals
 
-Processos més actius per ús de CPU i memòria
+- Processos més actius per ús de CPU i memòria
 
-Serveis actualment en execució
+- Serveis actualment en execució
 
 1. Instal·lació de NSSM (Non-Sucking Service Manager)
 
