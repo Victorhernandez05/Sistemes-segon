@@ -20,7 +20,7 @@ Víctor Hernández Elías
 <img width="754" height="463" alt="image" src="https://github.com/user-attachments/assets/0a51f0be-1c85-4dae-8cd2-f28f59600408" />
 
 
-Anem al moodle i descarga l’opció marcada.
+Al moodle ves a l’opció marcada i descarga.
 
 
 
