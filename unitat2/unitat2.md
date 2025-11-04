@@ -31,7 +31,8 @@ Anem al moodle i descarga l’opció marcada.
 - Obrir PowerShell com a administrador
 - Executar nssm install per crear un nou servei
 
-<img width="751" height="459" alt="image" src="https://github.com/user-attachments/assets/b9fc5deb-d7cb-47cb-8e8f-03dd053c6cea" />
+<img width="743" height="313" alt="image" src="https://github.com/user-attachments/assets/9ed746da-f7d1-4a14-8318-d44204078f87" />
+
 
 <img width="754" height="462" alt="image" src="https://github.com/user-attachments/assets/010ab853-007b-44cf-b7b2-e77ad32233aa" />
 
