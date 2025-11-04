@@ -58,12 +58,9 @@ Llavors anem a “propiedades>Tipo de inicio: Automático”.
 <img width="782" height="664" alt="image" src="https://github.com/user-attachments/assets/6304c76f-41d3-428b-9bc5-9bb8467864a8" />
 
 
+I aquest es el log en el fitxer txt.
 
-Llavors un cop dins executem el script.
-
-<img width="855" height="64" alt="image" src="https://github.com/user-attachments/assets/173aa8ec-8bdd-4016-91c3-7bab2f2c53f0" />
+<img width="715" height="692" alt="image" src="https://github.com/user-attachments/assets/aeb429a7-d854-4ba0-acfe-a9a71b52c3b2" />çç
 
 
-I mostra el log en el fitxer txt.
 
-<img width="866" height="212" alt="image" src="https://github.com/user-attachments/assets/ef5ae21c-89bb-4552-916d-0e4475074996" />
