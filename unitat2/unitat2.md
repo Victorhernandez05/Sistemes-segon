@@ -52,12 +52,11 @@ Llavors anem a “propiedades>Tipo de inicio: Automático”.
 
 3. Creació del script log_inici.ps1
 
+<img width="1004" height="664" alt="image" src="https://github.com/user-attachments/assets/095b76f7-6fd7-48db-a1c6-ce9dba02e539" />
+
+
 <img width="782" height="664" alt="image" src="https://github.com/user-attachments/assets/6304c76f-41d3-428b-9bc5-9bb8467864a8" />
 
-
-Executem el powershell com administració.
-
-<img width="747" height="143" alt="image" src="https://github.com/user-attachments/assets/8bc6bf4d-0a12-4edb-9bbb-ef436a3f08f2" />
 
 
 Llavors un cop dins executem el script.
