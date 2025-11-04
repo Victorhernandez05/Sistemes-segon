@@ -34,14 +34,13 @@ Anem al moodle i descarga l’opció marcada.
 <img width="743" height="313" alt="image" src="https://github.com/user-attachments/assets/9ed746da-f7d1-4a14-8318-d44204078f87" />
 
 
-<img width="754" height="462" alt="image" src="https://github.com/user-attachments/assets/010ab853-007b-44cf-b7b2-e77ad32233aa" />
-
 
 2. Configuració del servei amb NSSM
 
 Obrim el “services.msc” i busquem el server.
 
-<img width="751" height="362" alt="image" src="https://github.com/user-attachments/assets/4a77a8a1-f5b5-4725-951e-2a425e0a1d6b" />
+<img width="760" height="523" alt="image" src="https://github.com/user-attachments/assets/bcb66910-2059-43e1-b5cb-13141c61bb45" />
+
 
 
 Llavors anem a “propiedades>Tipo de inicio: Automático”.
