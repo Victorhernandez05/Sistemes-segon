@@ -62,7 +62,7 @@ I aquest es el log en el fitxer txt.
 
 <img width="715" height="692" alt="image" src="https://github.com/user-attachments/assets/aeb429a7-d854-4ba0-acfe-a9a71b52c3b2" />
 
-<img width="737" height="200" alt="image" src="https://github.com/user-attachments/assets/7505166a-3a06-4669-ae59-ae7213b3ba99" />
+<img width="716" height="178" alt="image" src="https://github.com/user-attachments/assets/fcba54c6-e80f-4e4a-a566-9a26af9ed92e" />
 
 
 
