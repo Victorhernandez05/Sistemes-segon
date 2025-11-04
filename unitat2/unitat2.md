@@ -4,6 +4,7 @@ Víctor Hernández Elías
 
 
 **Objectiu general**
+
 Aquest script PowerShell està dissenyat per:
 
 Executar-se automàticament com a servei, en iniciar l’equip o reiniciar-lo.
