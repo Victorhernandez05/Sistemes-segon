@@ -17,9 +17,10 @@ Víctor Hernández Elías
 
 1. Instal·lació de NSSM (Non-Sucking Service Manager)
 
-<img width="786" height="404" alt="image" src="https://github.com/user-attachments/assets/baff084b-159f-4a09-8d9d-837142bd7eeb" />
+<img width="754" height="463" alt="image" src="https://github.com/user-attachments/assets/0a51f0be-1c85-4dae-8cd2-f28f59600408" />
 
-Anem al link de descarga seleccionem l’opció marcada: https://nssm.cc/download
+
+Anem al moodle i descarga l’opció marcada.
 
 
 
