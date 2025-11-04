@@ -14,7 +14,7 @@ Executar-se automàticament com a servei, en iniciar l’equip o reiniciar-lo.
 
 - Detectar la IP local assignada a la màquina i calcular el temps d’activitat (uptime) des de l’últim reinici.
 
-- Comprovar l’estat de la connexió a Internet mitjançant una prova de connexió a un servidor extern (Google DNS).
+- Comprovar l’estat de la connexió a Internet mitjançant una prova de connexió (Google DNS).
 
 Recollir informació tècnica del sistema:
 
