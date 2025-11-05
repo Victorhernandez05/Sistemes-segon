@@ -34,7 +34,7 @@ Recollir informació tècnica del sistema:
 <img width="754" height="463" alt="image" src="https://github.com/user-attachments/assets/0a51f0be-1c85-4dae-8cd2-f28f59600408" />
 
 
-Al moodle ves a l’opció marcada i descarga.
+Al moodle ves a l’opció marcada i descarga-la.
 
 
 
