@@ -19,14 +19,14 @@ pwd  # comprova que ets a la carpeta correcta
 
 ### 3. Descomprimir l’arxiu del kernel
 
-tar -xf linux-6.8.1.tar.xz
-crea la carpeta linux-6.8.1
+tar -xf linux-6.14.1.tar.xz
+crea la carpeta linux-6.14.1
 ls -l
 
 ### 4. Entrar dins la carpeta del kernel
 
-cd linux-6.8.1
-pwd  # comprova que estàs a linux-6.8.1
+cd linux-6.14.1
+pwd  # comprova que estàs a linux-6.14.1
 
 
 ### 5. Fer còpia de main.c
