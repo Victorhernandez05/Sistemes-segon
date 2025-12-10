@@ -66,6 +66,7 @@ o ls -la .config
 ### 12. Netjar compilacions anteriors i preparar dependencies
 
 make clean
+
 make prepare
 
 ### 13. Inciar la compilació
