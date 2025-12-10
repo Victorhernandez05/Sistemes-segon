@@ -12,16 +12,22 @@ sudo apt install -y build-essential libncurses-dev flex bison openssl libssl-dev
 
 ### 1. Situa’ns a la carpeta de descàrregues
 cd ~/Descàrregues
-
-pwd  # comprova que ets a la carpeta correcta
+pwd
+<img width="442" height="90" alt="image" src="https://github.com/user-attachments/assets/94dd294c-c21d-445c-a717-2da9db1db00e" />
 
 ### 2. Descarregar el kernel (exemple: 6.14.1)
 
-### 3. Descomprimir l’arxiu del kernel
+<img width="728" height="598" alt="image" src="https://github.com/user-attachments/assets/4668a03d-d7f1-4f97-b763-02d14d259e6d" />
 
+### 3. Descomprimir l’arxiu del kernel
 tar -xf linux-6.14.1.tar.xz
+
+<img width="760" height="23" alt="image" src="https://github.com/user-attachments/assets/249027c9-6ea9-4206-bae5-17aeea0892fc" />
+
 crea la carpeta linux-6.14.1
 ls -l
+
+<img width="717" height="368" alt="image" src="https://github.com/user-attachments/assets/1e953111-55ee-4ea3-ba0f-a41eef123628" />
 
 ### 4. Entrar dins la carpeta del kernel
 
@@ -50,6 +56,8 @@ ls -l kernel/main.c kernel/main.c.orig
 
 ### 9. Actualitzar GRUB perquè apliqui els canvis
 sudo update-grub
+
+<img width="725" height="282" alt="image" src="https://github.com/user-attachments/assets/456e328a-bb1d-4d9d-bb4f-cb53a9ca4181" />
 
 ### 10. Fer menuconfig i desactivar virtualització
 
