@@ -1,4 +1,4 @@
-Preparatius i requisits previs
+# Preparatius i requisits previs
 Assegura’t que tens prou espai en disc i que tens les eines bàsiques instal·lades.
 
 sudo apt update
