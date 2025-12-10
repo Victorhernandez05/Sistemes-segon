@@ -1,4 +1,4 @@
-# Preparatius i requisits previs
+## Preparatius i requisits previs
 Assegura’t que tens prou espai en disc i que tens les eines bàsiques instal·lades.
 
 sudo apt update
@@ -7,14 +7,14 @@ sudo apt install -y build-essential libncurses-dev flex bison openssl libssl-dev
 <img width="1052" height="312" alt="image" src="https://github.com/user-attachments/assets/31643c2a-aadd-47ea-8334-535cf94ddc67" />
 
 
-## 1. Situa’ns a la carpeta de descàrregues
+### 1. Situa’ns a la carpeta de descàrregues
 cd ~/Descàrregues
 
 pwd  # comprova que ets a la carpeta correcta
 
-## 2. Descarregar el kernel (exemple: 6.14.1)
+### 2. Descarregar el kernel (exemple: 6.14.1)
 
-## 3. Descomprimir l’arxiu del kernel
+### 3. Descomprimir l’arxiu del kernel
 
 tar -xf linux-6.8.1.tar.xz
 crea la carpeta linux-6.8.1
