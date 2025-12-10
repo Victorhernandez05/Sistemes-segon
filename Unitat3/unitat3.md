@@ -1,5 +1,5 @@
 ### Víctor Hernández Elías
-# Administració de sistemes opertaius | Documentació Kernel
+# Administració de sistemes operatius | Documentació Kernel
 ## Preparatius i requisits previs
 Assegura’t que tens prou espai en disc i que tens les eines bàsiques instal·lades.
 
