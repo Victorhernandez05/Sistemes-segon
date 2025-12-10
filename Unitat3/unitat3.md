@@ -13,6 +13,7 @@ sudo apt install -y build-essential libncurses-dev flex bison openssl libssl-dev
 ### 1. Situa’ns a la carpeta de descàrregues
 cd ~/Descàrregues
 pwd
+
 <img width="442" height="90" alt="image" src="https://github.com/user-attachments/assets/94dd294c-c21d-445c-a717-2da9db1db00e" />
 
 ### 2. Descarregar el kernel (exemple: 6.14.1)
