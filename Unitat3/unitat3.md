@@ -1,4 +1,4 @@
-Víctor Hernández Elías
+# Víctor Hernández Elías
 
 ## Preparatius i requisits previs
 Assegura’t que tens prou espai en disc i que tens les eines bàsiques instal·lades.
