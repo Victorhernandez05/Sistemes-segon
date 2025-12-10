@@ -14,7 +14,7 @@ pwd  # comprova que ets a la carpeta correcta
 
 ###2. Descarregar el kernel (exemple: 6.14.1)
 
-###3. Descomprimir l’arxiu del kernel
+## 3. Descomprimir l’arxiu del kernel
 
 tar -xf linux-6.8.1.tar.xz
 crea la carpeta linux-6.8.1
