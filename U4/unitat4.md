@@ -178,10 +178,11 @@ Mapeig de Xarxa: El recurs compartit queda connectat al client com la Unitat Z: 
 
 
 
+<img width="613" height="440" alt="image" src="https://github.com/user-attachments/assets/cf6d76fe-da71-4594-90e6-211cbeaf83bb" />
 
-<img width="656" height="445" alt="image" src="https://github.com/user-attachments/assets/88988ef7-7f0f-4a66-80f0-fbbb7906c0da" />
+
+<img width="640" height="502" alt="image" src="https://github.com/user-attachments/assets/a01c1799-bffa-4631-9a7f-f1282aa66f99" />
 
 
-<img width="630" height="494" alt="image" src="https://github.com/user-attachments/assets/d989730a-9239-4444-bc33-9031b66385d7" />
 
 
