@@ -1,6 +1,6 @@
 
 Víctor Hernández Elías
-
+Docuemtació VPN ( Servidor | Client )
 ### 1. Configuració de les Interfícies de Xarxa
 
 El servidor es configura amb dos adaptadors de xarxa per separar el tràfic de la xarxa interna de la simulació de xarxa externa:
