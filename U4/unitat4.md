@@ -12,7 +12,6 @@ El servidor es configura amb dos adaptadors de xarxa per separar el tràfic de l
 Adaptador de Xarxa Interna:
 Adreça IP: 192.168.2.101.
 Màscara de subxarxa: 255.255.255.0.
-DNS preferit: 127.0.0.1 (un cop instal·lat l'AD).
 
 
 
