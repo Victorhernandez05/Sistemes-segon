@@ -1,7 +1,7 @@
 
 Víctor Hernández Elías
 
-# Docuemtació VPN ( Servidor | Client )
+# Documentació VPN ( Servidor | Client )
 
 ### 1. Configuració de les Interfícies de Xarxa
 
