@@ -37,3 +37,28 @@ S'executa certreq -new C:\web.inf C:\web.req per generar el fitxer de sol·licit
 
 
 <img width="695" height="162" alt="image" src="https://github.com/user-attachments/assets/d8b81502-8a2e-4142-b266-0f7987db13bc" />
+
+# Instal·lació del Certificat
+
+<img width="564" height="410" alt="image" src="https://github.com/user-attachments/assets/17ec2e27-5448-4ae8-96ae-5892870deea1" />
+
+S'envia la sol·licitud a la CA amb certreq -submit C:\web.req C:\web.cer
+
+<img width="519" height="113" alt="image" src="https://github.com/user-attachments/assets/f29e5f25-cee5-4382-bde3-2afbdf14099a" />
+
+# Configuració de l'Enllaç HTTPS a l'IIS
+
+Finestra "Agregar enlace de sitio" a l'IIS
+
+<img width="599" height="421" alt="image" src="https://github.com/user-attachments/assets/13e651bd-d834-46c5-8247-46ae5d318eec" />
+
+Dins de l'Administrador d'IIS, s'afegeix un enllaç de tipus https pel port 443, especificant el nom d'host web.victor.local i seleccionant el certificat SSL que acabem de crear.
+
+# Verificació Final
+
+<img width="602" height="197" alt="image" src="https://github.com/user-attachments/assets/aadb68f8-b5fd-41c7-8347-343bd4b2b112" />
+
+En accedir a https://web.victor.local, el navegador mostra el missatge "La conexión es segura"
+
+
+
