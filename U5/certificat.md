@@ -22,6 +22,7 @@ Es duplica la plantilla "Servidor web" i se li posa el nom WebServer-SAN.
 
 <img width="386" height="363" alt="image" src="https://github.com/user-attachments/assets/2a1fac1e-e2d5-4812-a02b-a40052cef7b0" />
 
+.
 
 <img width="390" height="432" alt="image" src="https://github.com/user-attachments/assets/1d2ca3d5-a7ab-450b-86ed-7b53fd937d79" />
 
