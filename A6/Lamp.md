@@ -25,7 +25,7 @@ Com que el certificat no està signat per una entitat certificadora oficial (CA)
 
 Generar el certificat i la clau
 
-<img width="1591" height="616" alt="image" src="https://github.com/user-attachments/assets/48bd93cf-c58a-48dc-8b69-f93167f87728" />
+<img width="1514" height="528" alt="image" src="https://github.com/user-attachments/assets/ecceb167-db44-443f-9eae-681c17c14a7a" />
 
 
 <img width="1062" height="389" alt="image" src="https://github.com/user-attachments/assets/13260234-732a-471a-b27a-b4405f765ed8" />
