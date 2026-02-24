@@ -32,3 +32,9 @@ Generar el certificat i la clau
 
 
 <img width="1057" height="328" alt="image" src="https://github.com/user-attachments/assets/a5350b4c-bac3-4b2f-9fad-46edfeec75dd" />
+
+
+<img width="1385" height="767" alt="image" src="https://github.com/user-attachments/assets/5e575452-0878-4497-92c6-bed3d9e7c6f5" />
+
+<img width="637" height="209" alt="image" src="https://github.com/user-attachments/assets/8ba3a74a-464c-4d8b-91ca-f1aeedf00b07" />
+
