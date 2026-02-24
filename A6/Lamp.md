@@ -33,7 +33,8 @@ Generar el certificat i la clau
 ## Habilitar el mòdul SSL i el lloc per defecte:
 <img width="1057" height="328" alt="image" src="https://github.com/user-attachments/assets/a5350b4c-bac3-4b2f-9fad-46edfeec75dd" />
 
-Un cop fets els anteriors pasos anem a la pagina amb la nostra ip.
+
+##### Un cop fets els anteriors pasos anem a la pagina amb la nostra ip.
 <img width="1385" height="767" alt="image" src="https://github.com/user-attachments/assets/5e575452-0878-4497-92c6-bed3d9e7c6f5" />
 
 Aquesta és la prova que el servidor Apache està funcionant sota HTTPS, però amb l'advertència esperada.
