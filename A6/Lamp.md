@@ -19,3 +19,7 @@ Esborrem tota la configuració del fitxer i afegim "Hello World".
 <img width="968" height="90" alt="image" src="https://github.com/user-attachments/assets/397b0b7b-17ce-4c1f-a3bd-0b8ab332f128" />
 
 ## 3. Generació i instal·lació del Certificat SSL
+
+
+
+<img width="1591" height="616" alt="image" src="https://github.com/user-attachments/assets/48bd93cf-c58a-48dc-8b69-f93167f87728" />
