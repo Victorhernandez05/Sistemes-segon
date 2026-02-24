@@ -27,3 +27,5 @@ Esborrem tota la configuració del fitxer i afegim "Hello World".
 
 <img width="1062" height="389" alt="image" src="https://github.com/user-attachments/assets/13260234-732a-471a-b27a-b4405f765ed8" />
 
+
+<img width="1057" height="328" alt="image" src="https://github.com/user-attachments/assets/a5350b4c-bac3-4b2f-9fad-46edfeec75dd" />
