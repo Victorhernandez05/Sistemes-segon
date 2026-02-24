@@ -17,3 +17,5 @@ Anem al directori arrel per defecte d'Apache.
 Esborrem tota la configuració del fitxer i afegim "Hello World".
 
 <img width="968" height="90" alt="image" src="https://github.com/user-attachments/assets/397b0b7b-17ce-4c1f-a3bd-0b8ab332f128" />
+
+## 3. Generació i instal·lació del Certificat SSL
