@@ -20,7 +20,10 @@ Esborrem tota la configuració del fitxer i afegim "Hello World".
 
 ## 3. Generació i instal·lació del Certificat SSL
 
+Com que el certificat no està signat per una entitat certificadora oficial (CA), el navegador dirà que la connexió no és segura.
 
+
+Generar el certificat i la clau
 
 <img width="1591" height="616" alt="image" src="https://github.com/user-attachments/assets/48bd93cf-c58a-48dc-8b69-f93167f87728" />
 
